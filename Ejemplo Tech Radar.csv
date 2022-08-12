@@ -1,0 +1,10 @@
+name,ring,quadrant,isNew,description
+dbdocs.io,Hold,Tools,FALSE,Tool to create HTML documentation from a DB schema. https://dbdocs.io/
+mermaid,Assess,Tools,FALSE,"mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs. (mermaid-js.github.io)"
+Apache Spark,Adopt,languaje and framework,FALSE,"is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters"
+Ruby on Rails,Adopt,languaje and framework,FALSE,is a full-stack framework.
+Fiber,Assess,languaje and framework,TRUE,is an Express inspired web framework built on top of Fasthttp
+Flask,Assess,languaje and framework,FALSE,is a micro web framework written in Python
+No code,Trail,Platforms,TRUE,an application that provides the Graphical User Interface for programming and thereby develops the code at a very fast rate & reduces the traditional programming efforts.
+Low Code,Trail,Platforms,TRUE,a programming platform that uses a visual development interface to enable non-technical users to build applications by dragging and dropping software applications to create a full app.
+Graphhiz,Hold,Tools,FALSE,is open source graph visualization software
